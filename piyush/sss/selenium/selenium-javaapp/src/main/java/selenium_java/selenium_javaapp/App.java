@@ -1,4 +1,4 @@
-package dev.deve;
+package selenium_java.selenium_javaapp;
 
 /**
  * Hello world!
@@ -10,6 +10,4 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-    
-    lkdsjjlksaj
 }
